@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Resizer - One for More", "Image Resizer - One for More.csproj", "{43B550C1-AEEC-4BD6-9E1C-C94658ECAF49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43B550C1-AEEC-4BD6-9E1C-C94658ECAF49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B550C1-AEEC-4BD6-9E1C-C94658ECAF49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B550C1-AEEC-4BD6-9E1C-C94658ECAF49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B550C1-AEEC-4BD6-9E1C-C94658ECAF49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E78FCE9-F7D7-46C2-A045-1B831B9C1E1E}
+	EndGlobalSection
+EndGlobal
